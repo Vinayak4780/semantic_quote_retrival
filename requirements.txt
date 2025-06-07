@@ -1,0 +1,14 @@
+requests
+pandas
+numpy
+nltk
+faiss-cpu
+torch
+transformers
+streamlit
+sentence-transformers
+python-dotenv
+scikit-learn
+fastapi
+uvicorn
+datasets
